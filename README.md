@@ -8,6 +8,8 @@
 
 [![DC Vibration Motor](http://img.youtube.com/vi/_6BA5Fun7Qo/0.jpg)](https://www.youtube.com/watch?v=_6BA5Fun7Qo)
 
+*Controlling DC Vibration Motor from Arduino*
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
@@ -29,6 +31,8 @@ In the Sweep code, the variable "pos" controls the angle, and the increment size
 ## Part C. Integrating input and output
 
 [![Pot Controlled Servo](http://img.youtube.com/vi/CcRdQjT9j38/0.jpg)](https://www.youtube.com/watch?v=CcRdQjT9j38)
+
+*Controlling servo motor with 10K potentiometer via Arduino. The Arduino sketch can be found [here](https://github.com/TomiKalejaiye/IDD-Fa19-Lab4/ServoPot.ino).*
 
 ## Part D. Paper puppet
 
