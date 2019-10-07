@@ -1,14 +1,12 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Tomi Kalejaiye*
 
 ## In this Report
 
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
-
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+[![DC Vibration Motor](http://img.youtube.com/vi/_6BA5Fun7Qo/0.jpg)](https://www.youtube.com/watch?v=_6BA5Fun7Qo)
 
 ## Part B. Actuating Servo motors
 
@@ -16,15 +14,21 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which color wires correspond to power, ground and signal?**
 
+The brown wire corresponds to ground, the red wire corresponds to the voltage supply, and the orange wire is the signal line for servo control, which when using Arduino goes to a pin on the arduino.
+
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+The signal line should be on pin 9 for the Sweep sketch.
+
 **b. What aspects of the Servo code control angle or speed?**
+
+In the Sweep code, the variable "pos" controls the angle, and the increment size in the for loop that increments "pos" controls the speed.
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+[![Pot Controlled Servo](http://img.youtube.com/vi/CcRdQjT9j38/0.jpg)](https://www.youtube.com/watch?v=CcRdQjT9j38)
 
 ## Part D. Paper puppet
 
