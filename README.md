@@ -36,9 +36,12 @@ In the Sweep code, the variable "pos" controls the angle, and the increment size
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+[![Paper Puppet](http://img.youtube.com/vi/J9_5yz0Fzjo/0.jpg)](https://www.youtube.com/watch?v=J9_5yz0Fzjo)
+
+*Paper Puppet running an Arduino sketch.*
 
 ## Part E. Make it your own
+[![Pot Paper Puppet](http://img.youtube.com/vi/Ttmq1UGNGJA/0.jpg)](https://www.youtube.com/watch?v=Ttmq1UGNGJA)
 
-**a. Make a video of your final design.**
+*Paper Puppet controlled by 10K Pot.*
  
